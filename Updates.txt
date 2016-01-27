@@ -1,0 +1,58 @@
+.body {
+	display: none;
+}
+
+$('.body').on('click', '.expand', function() {
+	
+});
+
+
+
+
+pg. 86
+
+$('button').on('click', function() {
+
+
+});
+
+
+
+pg. 84
+
+$(document).ready(function() {
+
+
+});
+
+
+
+
+			$('.showResume').show();
+$('button').on('click', 'button', function() {
+				$('body').show();
+			});
+
+
+
+$('body').css({ 'display' : ''});
+
+$('h1').text("It works!");
+
+$('#header').css( "display", "");
+
+$('#row').css( "display", "");
+
+
+
+$('.header').css( "display", "");
+				$('.row').css( "display", "");
+
+
+
+$('.showResume').on('click', 'button', function() {
+		$alert('Hello');
+	});
+
+
+alert('Hello');

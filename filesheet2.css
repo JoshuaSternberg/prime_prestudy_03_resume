@@ -1,0 +1,66 @@
+body {
+			
+	background: url(http://brunetti.com.au/wp-content/uploads/2014/05/BRU7280-Brunetti-WEBSITE_Background_FA_1.jpg);
+	width: 800px;
+ 	margin: auto;
+}
+
+h1 {
+	font-size: 45px;
+	font-weight: bold;
+	border-bottom: 1px solid #100;
+	margin-right: 20px;
+}
+
+h2 {
+	float: right;
+	font-style: italic;
+	font-weight: bolder;
+}
+
+h3 {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+.header {
+	text-align: center;
+	display: ;	
+}
+
+p {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+.header p {
+	font-size: 16px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.profile p {
+	text-align: center;
+	font-style: italic;
+	font-size: 20px;
+	padding: 0 0 16px 0;
+	margin-left: 15px;
+	margin-top: 30px;
+	border-bottom: 1px solid #100;
+}
+
+.computer-skills p {
+	margin-top: 20px;
+}
+
+.col-md-7 {
+	border-left: 1px solid #100;
+	margin-bottom: 20px;
+	padding-top: 8px;
+}
+
+.row {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	display: none;	
+}
